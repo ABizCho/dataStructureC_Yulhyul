@@ -1,0 +1,4 @@
+language = "c"
+run = "clang-7 -pthread -lm -o main ds2_binarySearch.c \n ./main"
+
+
